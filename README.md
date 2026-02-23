@@ -1,4 +1,4 @@
-# my_first_repo
+# test_repo
 Welcome to my first Github repo for testing
 
 ## Description
